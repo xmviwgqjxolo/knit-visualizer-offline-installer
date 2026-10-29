@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Knitting+Design-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Craft+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Knit Visualizer Free Installer** — Knit Visualizer is a Windows application for knitters to create and visualize stitch charts and pattern diagrams. Works without internet access, no account required. Full offline installation.
+**💻 Knit Visualizer Free Installer** — Knit Visualizer is a Windows knitting pattern design software for creating and editing knitting charts and stitch patterns. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Knit Visualizer
 
-Knit Visualizer is a Windows application for knitters to create and visualize stitch charts and pattern diagrams. Design colorwork patterns, generate stitch-by-stitch charts, and preview how finished knitting projects will look. With a library of knitting symbols and pattern export features, Knit Visualizer bridges the gap between knitting pattern writing and visual representation.
+Knit Visualizer is a Windows knitting pattern design software for creating and editing knitting charts and stitch patterns. It supports multiple stitch types, color work patterns, and exports charts for printing or sharing with the knitting community.
 
 ---
 
 ## ❌ Problem: Knit Visualizer is hard to access
 
-- **Windows Only** — No macOS or mobile version
-- **Specialized Niche** — Only useful for knitting pattern designers
-- **Learning Curve** — Knitting terminology and chart conventions must be understood
-- **Price Point** — Commercial software with significant cost for a specialized tool
+- **Windows Only** — No macOS or Linux version
+- **Very Niche** — Extremely specialized for knitting pattern charting
+- **Paid License** — Requires purchase
+- **Limited Integration** — Charts must be exported for use in document or publishing software
 
 ---
 
@@ -121,7 +121,7 @@ Knit Visualizer is a Windows application for knitters to create and visualize st
 
 ---
 
-**Knit Visualizer Free Installer** — Knit Visualizer is a Windows application for knitters to create and visualize stitch charts and pattern diagrams. Install without internet connection today!
+**Knit Visualizer Free Installer** — Knit Visualizer is a Windows knitting pattern design software for creating and editing knitting charts and stitch patterns. Install without internet connection today!
 
 <div align="center">
 
